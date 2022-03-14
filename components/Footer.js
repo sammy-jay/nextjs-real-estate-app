@@ -9,6 +9,14 @@ const Footer = () => (
     borderColor="gray.100"
   >
     © 2022 Realtor, Inc.
+    <div>
+      <a
+        href="https://github.com/sammy-jay/nextjs-real-estate-app"
+        target="_blank"
+      >
+        Tolulope Soneye
+      </a>
+    </div>
   </Box>
 );
 
